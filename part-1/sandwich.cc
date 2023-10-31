@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Jesus Yanez
+// JYZamora@csu.fullerton.edu
+// @Jesus-Yanez
+// Partners: @lesliecjimenez
 
 #include <iostream>
 #include <string>
